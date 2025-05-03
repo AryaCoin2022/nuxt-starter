@@ -1,4 +1,4 @@
-# Nuxt Starter
+#Arya
 
 ![Netlify + Nuxt Starter Preview](nuxt-starter-preview.jpg)
 
